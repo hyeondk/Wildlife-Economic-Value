@@ -1,6 +1,6 @@
 # **Wildlife-Economic-Value**
 * Type : Research Project
-* Title : A Study on the Economic Value of Wildlife Resources
+* Title : Economic Valuation Study on Wild Biological Resources
 * Periods : 2024.09.25. ~ 2024.12.13.
 
 ## **Research Purpose**
